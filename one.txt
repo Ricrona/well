@@ -1,4 +1,9 @@
+<<<<<<< HEAD
 i love pizza
 i love cactus
 i love cactus
 sushi also
+=======
+i love pizza
+i love cactus
+>>>>>>> ad4575915ceedfef8564f6218cc1592397650888
